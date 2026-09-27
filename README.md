@@ -4,7 +4,7 @@
 
 
 ## 🚀 Current Activities
----
+
 - 🌱 Currently learning **Frontend Developer | Aspiring Full Stack Engineer**
 - 💻 Building **Real-world web applications**
 - 👯 Looking to collaborate on **Real-world web development project**
