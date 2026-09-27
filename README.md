@@ -8,6 +8,7 @@
 
 <p align="center">I’m currently learning Full Stack AI Web Development and building modern, responsive web applications. I’m passionate about web development and enjoy turning ideas into real-world projects while exploring new technologies. I’m continuously improving my programming skills, learning best practices, and working toward becoming a skilled and professional Full Stack Developer.</p>
 <br>
+
 ## 🚀 Current Activities
 
 - 🌱 Currently learning **Frontend Developer | Aspiring Full Stack Engineer**
