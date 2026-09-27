@@ -13,7 +13,7 @@
 - 🚀 Interested in building **scalable and production-ready applications**
 
 <h3 align="left">Connect with me:</h3>
----
+
 <p align="left">
 <a href="https://discord.gg/mdnaimislam0636_90350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdnaimislam0636_90350" height="30" width="40" /></a>
 </p>
