@@ -4,15 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimislam-24&label=Profile%20views&color=0e75b6&style=flat" alt="naimislam-24" /> </p>
 
 - 🌱 Currently learning **Frontend Developer | Aspiring Full Stack Engineer**
-
 - 💻 Building **Real-world web applications**
-
 - 👯 Looking to collaborate on **Real-world web development project**
-
 - ⚛️ Exploring **React and Next.js.**
-
 - 🎨 Improving my **Tailwind CSS skills.**
-
 - 🚀 Interested in building **scalable and production-ready applications**
 
 <h3 align="left">Connect with me:</h3>
