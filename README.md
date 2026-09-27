@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Naim Islam</h1>
 <h3 align="center">I’m currently learning Full Stack AI Web Development and building modern, responsive web applications. I’m passionate about web development and enjoy turning ideas into real-world projects while exploring new technologies. I’m continuously improving my programming skills, learning best practices, and working toward becoming a skilled and professional Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimislam-24&label=Profile%20views&color=0e75b6&style=flat" alt="naimislam-24" /> </p>
 
 - 🌱 Currently learning **Frontend Developer | Aspiring Full Stack Engineer**
 - 💻 Building **Real-world web applications**
@@ -21,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimislam-24&show_icons=true&locale=en&layout=compact" alt="naimislam-24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimislam-24&" alt="naimislam-24" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimislam-24&label=Profile%20views&color=0e75b6&style=flat" alt="naimislam-24" /> </p>
